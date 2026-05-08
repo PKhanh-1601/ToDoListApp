@@ -1,0 +1,56 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:label="NotingApp"
+        android:theme="@style/Theme.NotingApp">
+
+        <!-- PROFILE -->
+        <activity android:name=".ui.ProfileActivity" /> <!-- Đã sửa tại đây -->
+
+        <!-- MAP -->
+        <activity
+            android:name=".ui.MapActivity"
+            android:exported="false"/>
+
+        <!-- CREATE NOTE -->
+        <activity
+            android:name=".ui.CreateNoteActivity"
+            android:exported="false"/>
+
+        <!-- MAIN -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
+
+        <!-- LOGIN -->
+        <activity
+            android:name=".ui.LoginActivity"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+        </activity>
+
+        <!-- SIGN UP -->
+        <activity
+            android:name=".ui.SignUpActivity"
+            android:exported="false"/>
+
+        <!-- GEOFENCE -->
+        <receiver android:name=".location.GeofenceReceiver"/>
+
+    </application>
+
+</manifest>

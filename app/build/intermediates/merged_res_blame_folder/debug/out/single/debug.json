@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_item_note.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\item_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_activity_create_note.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\activity_create_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-merged_res-50:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.notingapp-main-52:\\layout\\activity_map.xml"
+    }
+]
